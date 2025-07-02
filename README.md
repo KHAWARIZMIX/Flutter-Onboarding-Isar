@@ -1,5 +1,3 @@
-# user_profile_isar
-
 # 👤 Flutter Onboarding Isar
 
 A basic Flutter onboarding app that allows users to create a profile with a name and profile picture. Built using:
