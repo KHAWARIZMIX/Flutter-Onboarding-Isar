@@ -29,7 +29,7 @@ A basic Flutter onboarding app that allows users to create a profile with a name
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/flutter-onboarding-isar.git
+git clone https://github.com/KHAWARIZMIX/flutter-onboarding-isar.git
 cd flutter-onboarding-isar
 ```
 
