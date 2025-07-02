@@ -80,7 +80,7 @@ lib
 ├── model
 │   ├── onboarding_model.dart
 │   ├── user.dart
-│   └── user.g.dart
+│   └── user.g.dart        
 ├── notfiers
 │   └── onboarding_notifier.dart
 ├── pages
@@ -99,7 +99,7 @@ lib
 └── widgets
     └── user_avatar.dart
 ```
-Note: /pages content not used by default.
+Note: The contents inside the /pages directory are not used by default.
 ---
 
 ## ✅ Requirements
