@@ -99,7 +99,7 @@ lib
 └── widgets
     └── user_avatar.dart
 ```
-
+Note: /pages content not used by default.
 ---
 
 ## ✅ Requirements
@@ -110,6 +110,7 @@ lib
 - Android or iOS emulator/device
 
 ---
+
 
 ## 📄 License
 
